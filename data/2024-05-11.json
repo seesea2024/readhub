@@ -294,6 +294,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "港交所公告，5月13日起调整北向交易实时成交额和每日额度余额的公布方式，取消实时公布买入、卖出成交额及成交总额，仅在每日额度余额低于30%时实时公布，否则显示“可用”。",
+    "id": "8ZUtjXcNSwe",
+    "order": 1715416841778,
+    "createdAt": "2024-05-11T06:38:21.000Z",
+    "publishDate": "2024-05-11T08:40:41.778Z",
+    "title": "港交所周一起不再披露北向交易的实时成价额",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 14:38:21",
+    "uuid": "fcd1d10e-0c87-44ba-9d56-ffb4a25ab93d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "财联社" },
@@ -861,6 +880,54 @@
     "up": false,
     "date": "2024-05-11 09:02:58",
     "uuid": "5b3f34a3-a245-45d2-8c5a-9428b60a1fc6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "5月11日，中庚基金发布公告，宣布公司知名基金经理丘栋荣旗下2只产品增聘基金经理。具体来看，本次增聘吴承根为中庚价值品质基金经理、增聘刘晟为中庚价值领航基金经理 ...",
+    "id": "8ZUU0MlytkM",
+    "order": 1715416816234,
+    "createdAt": "2024-05-11T00:36:42.000Z",
+    "publishDate": "2024-05-11T08:40:16.234Z",
+    "title": "丘栋荣在管2只基金增聘基金经理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 08:36:42",
+    "uuid": "6a04d996-7570-454e-a161-2132a4b2a6b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" },
+      { "siteName": "猎云网" },
+      { "siteName": "投资圈" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "杭州灵眸医疗科技有限公司（简称「灵眸医疗」）宣布完成数千万人民币 Pre-A 融资，由海邦沣华领投，跃为资本担任长期独家财务顾问 ...",
+    "id": "8ZUU1W7pJvw",
+    "order": 1715416856623,
+    "createdAt": "2024-05-11T00:15:11.000Z",
+    "publishDate": "2024-05-11T08:40:56.623Z",
+    "title": "灵眸医疗完成数千万元 Pre-A 融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 08:15:11",
+    "uuid": "809fc7e9-1c8c-4501-9962-1affaba611e0"
   },
   {
     "newsArray": [
