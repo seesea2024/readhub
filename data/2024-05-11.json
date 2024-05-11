@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国充电联盟数据显示，2024年1-4月充电基础设施增量为101.7万台，新能源汽车销量为252.0万辆 ...",
+    "id": "8ZV2g9yzyxl",
+    "order": 1715443019736,
+    "createdAt": "2024-05-11T15:57:00.000Z",
+    "publishDate": "2024-05-11T15:56:59.736Z",
+    "title": "中国充电联盟：1—4月桩车增量比为1:2.5",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 23:57:00",
+    "uuid": "45e9dde1-2c8e-4327-be3f-f02293a0fab0"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "电商报" },
       { "siteName": "腾讯网" }
