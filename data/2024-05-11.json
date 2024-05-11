@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "蔚来汽车即将于5月15日发布其子品牌“ONVO 乐道”，首款车型乐道L60也将同步亮相。该品牌源自On Voyage，主打25万级家用智能纯电SUV市场，竞争力指向特斯拉Model Y ...",
+    "id": "8ZUj1ftmMyf",
+    "order": 1715400191609,
+    "createdAt": "2024-05-11T04:03:12.000Z",
+    "publishDate": "2024-05-11T04:03:11.609Z",
+    "title": "李斌解释新品牌乐道含义，首款车型将于5月15日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 12:03:12",
+    "uuid": "fd407eac-fbae-42f8-8fef-ef583ad28c66"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -337,6 +354,24 @@
     "up": false,
     "date": "2024-05-11 09:17:10",
     "uuid": "30091519-524f-42bf-8690-68284580ba48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医谷网" }
+    ],
+    "summary": "阿斯利康宣布全球撤回新冠疫苗Vaxzevria，其他供应商可能也将跟进，预示着全球疫苗竞赛即将结束。",
+    "id": "8ZT4GydljNK",
+    "order": 1715400065098,
+    "createdAt": "2024-05-10T23:38:10.000Z",
+    "publishDate": "2024-05-11T04:01:05.098Z",
+    "title": "阿斯利康下架新冠疫苗",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 07:38:10",
+    "uuid": "432d7d86-955b-4076-90a6-a83a2151420d"
   },
   {
     "newsArray": [
