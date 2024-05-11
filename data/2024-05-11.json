@@ -18,6 +18,33 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "浙江瑞丰达资产管理有限公司实际控制人逃离，引发关注。相关部门已组织力量进行核查，初步掌握该公司涉嫌多项违法违规行为，决定立案调查并依法严肃处理 ...",
+    "id": "8ZVQLmgoikc",
+    "order": 1715439352509,
+    "createdAt": "2024-05-11T13:51:57.000Z",
+    "publishDate": "2024-05-11T14:55:52.509Z",
+    "title": "证监会对浙江瑞丰达资产管理有限公司立案调查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-11 21:51:57",
+    "uuid": "4d62818c-9aff-477f-8916-d4ba3e5ec818"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "财联社" },
       { "siteName": "腾讯网" }
