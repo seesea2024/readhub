@@ -2,6 +2,23 @@
   {
     "newsArray": [
       { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "索尼互动娱乐（SIE）新成立了一个工作室，主要成员来自Deviation Games。这家公司是由两位《使命召唤》系列的开发者于2020年创立，但首个项目未能发布 ...",
+    "id": "8ZWIwEW02j8",
+    "order": 1715497611353,
+    "createdAt": "2024-05-12T07:06:52.000Z",
+    "publishDate": "2024-05-12T07:06:51.353Z",
+    "title": "索尼互动娱乐成立新工作室 或正在开发一个尚未公布的新IP",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-12 15:06:52",
+    "uuid": "9fd80b48-545c-4fc4-b8e2-83785a3b9f52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
     ],
