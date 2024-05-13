@@ -37,6 +37,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "叮咚买菜2024年第一季度财报显示，总营收达50.24亿元，同比增长0.53%，实现净利润1230万元，较2023年同期由亏损5240万元转为盈利 ...",
+    "id": "8ZYWUG2GhkY",
+    "order": 1715605241838,
+    "createdAt": "2024-05-13T12:01:16.000Z",
+    "publishDate": "2024-05-13T13:00:41.838Z",
+    "title": "叮咚买菜：一季度净利润1230万元，同比扭亏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 20:01:16",
+    "uuid": "91767721-326b-4c4b-b442-46a54c7ce165"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
