@@ -35,6 +35,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "中国人寿集团近日发起设立了总规模100亿元、首期规模50亿元的银发经济产业投资基金，这是保险行业首只以“银发产业”为主题的人民币股权基金 ...",
+    "id": "8ZY9hNqXKJi",
+    "order": 1715583149023,
+    "createdAt": "2024-05-13T06:32:08.000Z",
+    "publishDate": "2024-05-13T06:52:29.023Z",
+    "title": "总规模100亿元，中国人寿集团设立行业首只银发产业基金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 14:32:08",
+    "uuid": "35915c04-c51e-4ea9-8dac-7e5bf2bf8fd5"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "亿邦动力网" },
       { "siteName": "亿邦动力网" }
