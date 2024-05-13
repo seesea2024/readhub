@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "全球前两大DRAM供应商韩国三星和SK海力士将停止供应DDR3利基型DRAM，全力生产高带宽内存和DDR5内存 ...",
+    "id": "8ZY2Txq6HSm",
+    "order": 1715576009988,
+    "createdAt": "2024-05-13T04:53:30.000Z",
+    "publishDate": "2024-05-13T04:53:29.988Z",
+    "title": "三星、SK海力士将停止供货DDR3 推升报价飙涨两成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 12:53:30",
+    "uuid": "01be926d-a121-42b0-b220-b01e5365322c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "手机中国" },
       { "siteName": "IT 之家" }
